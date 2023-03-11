@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 0	string SCHOOL School data
-=======
-0   string SCHOOL School data
->>>>>>> bbadf0d8fb257eaa2bbd0e82b2fad9fbf5865e2f
 !:mime School
 file -C -m school
