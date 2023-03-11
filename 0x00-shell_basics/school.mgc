@@ -1,2 +1,3 @@
 0 string SCHOOOL School data
 !:mime School
+file -C -m school
